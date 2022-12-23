@@ -1,0 +1,2 @@
+keyboard==0.13.5
+simpleaudio==1.0.4

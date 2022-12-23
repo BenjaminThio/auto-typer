@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.autoIndent": "none",
+    "editor.autoClosingBrackets": "never",
+    "editor.acceptSuggestionOnEnter": "off"
+}
